@@ -1,4 +1,4 @@
-Model             | mAP$\uparrow$    | NDS$\uparrow$ | mATE$\downarrow$ | mASE$\downarrow$ | mAOE$\downarrow$ | mAVE$\downarrow$ | mAAE$\downarrow$
+Model             | mAP $\uparrow$    | NDS $\uparrow$ | mATE $\downarrow$ | mASE $\downarrow$ | mAOE $\downarrow$ | mAVE $\downarrow$ | mAAE $\downarrow$
 :-----------------------|------------|------------|-------|-------|-------|-------|-------
 StreamPETR baseline     | 37.83%     | 0.4734     | 0.6961 | 0.2822 | 0.6846 | 0.2856 |0.2084
 GPQ                     | **39.42%** | **0.4941** | **0.6766** | **0.2711** | 0.5799 | **0.2780** |0.2136
