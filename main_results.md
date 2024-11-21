@@ -1,4 +1,4 @@
-Model      | Backbone | ImageSize | Queries | FPS  | FPSx| mAP | NDS | mATE | mASE | mAOE | mAVE | mAAE
+Model      | Backbone | ImageSize | Queries | FPS $\uparrow$  | FPSx $\uparrow$ | mAP $\uparrow$ | NDS $\uparrow$ | mATE $\downarrow$ | mASE $\downarrow$  | mAOE $\downarrow$  | mAVE $\downarrow$  | mAAE $\downarrow$ 
 :----------|:--------:|----------:|:--------|-----:|-----:|-----------|-----------|-----------|-----------|-----------|-----------|-----------
 DETR3D | ResNet50 | 1408x512 | 900/- | 8.2 | 1.00x | 24.63% | 0.3054 | 0.9534 | 0.2867 | 0.7005 | 0.9959 | 0.2417
 DETR3D | ResNet50 | 1408x512 | 300/- | 9.2 | 1.21x | 23.43% | 0.2953 | 0.9851 | 0.2865 | 0.7189 | 0.9667 | 0.2613
